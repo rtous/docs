@@ -61,7 +61,7 @@ de Catalunya (RTC) d’una Llar Compartida on apareix el NIRTC, que comença amb
             - CEDULA HABITABILITAT NUM
             - SUPERF. CONSTRUIDA (catastre)
             - SUPERF. UTIL (diu la cèdula)
-            - C.R.U. 
+            - C.R.U. (Código Registral Único, a l'escriptura o nota simple)
             - Número habitaciones finca: 
             - DESCRIPCIÓN DE LA HABITACIÓN QUE SE ARRIENDA (e.g. Habitación suite con baño)
             - Licencia? sí
