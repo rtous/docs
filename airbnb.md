@@ -16,7 +16,7 @@
     - Cal tenir en compte que un cop fet el tràmit l'adreça de l'habitatge apereixerà en cercadors públics de la Generalitat (aquí per exemple: https://empresa.gencat.cat/ca/departament/dades-obertes/turisme/establiments-allotjament-turistic/index.html)
     - Convé tenir a ma l'escriptura de la vivenda i la cèdula d'habitabilitat
 
-PAS 1) Iniciar el tràmit
+**PAS 1)** Iniciar el tràmit
 
     - Link: https://web.gencat.cat/ca/tramits/tramits-temes/Llars-compartides
     - Adjuntar autorització d'un dels propietaris (només deixava una) l'he signat amb certificat.
@@ -27,11 +27,11 @@ PAS 1) Iniciar el tràmit
         - SUPERF. CONSTRUIDA (catastre)
         - SUPERF. UTIL (cèdula habitabilitat)
 
-PAS 2) Esperar a que la Generalitat comuniqui a l'Ajuntament que ho has demanat i l'Ajuntament t'envii la taxa que has de pagar (548,95 euros a Valldoreix per exemple)
+**PAS 2)** Esperar a que la Generalitat comuniqui a l'Ajuntament que ho has demanat i l'Ajuntament t'envii la taxa que has de pagar (548,95 euros a Valldoreix per exemple)
 
-PAS 3) Pagar la taxa i comunicar a l'Ajuntament via mail (a Valldoreix es paga per tranferència i es comunica via mail però això pot variar). L'Ajuntament envia a la generalitat el document d'inscripció. 
+**PAS 3)** Pagar la taxa i comunicar a l'Ajuntament via mail (a Valldoreix es paga per tranferència i es comunica via mail però això pot variar). L'Ajuntament envia a la generalitat el document d'inscripció. 
 
-PAS 4) Esperar (pot ser més d'un mes o dos) a rebre de la Generalitat el Document acreditatiu de la inscripció en el Registre de Turisme
+**PAS 4)** Esperar (pot ser més d'un mes o dos) a rebre de la Generalitat el Document acreditatiu de la inscripció en el Registre de Turisme
 de Catalunya (RTC) d’una Llar Compartida on apareix el NIRTC, que comença amb (LLB-...). En el nostre cas no ens van avisar però a la secció de tràmits va apareixer el document un parell de mesos després d'haver fet el pagament. 
 
 ### 3. NRA Notari: Sol·licitar Número de Registro de Alquiler (NRA) (EXPLICACIÓ PER FER-HO ONLINE PERÒ ES POT FER PRESENCIALMENT)
@@ -41,16 +41,16 @@ de Catalunya (RTC) d’una Llar Compartida on apareix el NIRTC, que comença amb
         - Preu: 27.05 euros.
         - Cal renovar-lo anualment.
 
-PAS 1) Omplir formulari online: https://sede.registradores.org/sede/sede-corpme-web/informacion-y-ayuda/instancias-presentacion/propiedad/formulario_SEDE-RP-31-InsCodComRegAlqCorDur
+**PAS 1**) Omplir formulari online: https://sede.registradores.org/sede/sede-corpme-web/informacion-y-ayuda/instancias-presentacion/propiedad/formulario_SEDE-RP-31-InsCodComRegAlqCorDur
 
-PAS 2) Alta a registradores: https://sede.registradores.org/sede/sede-corpme-web/home
+**PAS 2**) Alta a registradores: https://sede.registradores.org/sede/sede-corpme-web/home
         - Demanen les dades bancàries però només per facturar els tràmits que facis, no suscripció.
         - IMPORTANT: Seleccionar la tercera opció (no pagues mensualment)
 
-PAS 3) Instalar autofirma a l'ordinador
+**PAS 3**) Instalar autofirma a l'ordinador
         https://sede.registradores.org/sede/sede-corpme-web/informacion-y-ayuda/documentacion-descargas/autofirma
 
-PAS 4) Realitzar el tràmit online:
+**PAS 4**) Realitzar el tràmit online:
         - Link: https://sede.registradores.org/sede/sede-corpme-web/registro-de-la-propiedad/publicidad/propiedad-nra 
 
         - Entrar amb certificat i anar a Registro de la propiedad/Documento privado/Asignación de número de alquiler... (sense afegits)
