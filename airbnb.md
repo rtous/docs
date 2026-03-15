@@ -29,7 +29,7 @@
 
 **PAS 2)** Esperar a que la Generalitat comuniqui a l'Ajuntament que ho has demanat i l'Ajuntament t'envii la taxa que has de pagar (548,95 euros a Valldoreix per exemple)
 
-**PAS 3)** Pagar la taxa i comunicar a l'Ajuntament via mail (a Valldoreix es paga per tranferència i es comunica via mail però això pot variar). L'Ajuntament envia a la generalitat el document d'inscripció. 
+**PAS 3)** Pagar la taxa i comunicar a l'Ajuntament (a Valldoreix es paga per tranferència i es comunica via mail però això pot variar). L'Ajuntament envia a la generalitat el document d'inscripció. 
 
 **PAS 4)** Esperar (pot ser més d'un mes o dos) a rebre de la Generalitat el Document acreditatiu de la inscripció en el Registre de Turisme
 de Catalunya (RTC) d’una Llar Compartida on apareix el NIRTC, que comença amb (LLB-...). En el nostre cas no ens van avisar però a la secció de tràmits va apareixer el document un parell de mesos després d'haver fet el pagament. 
@@ -87,9 +87,9 @@ de Catalunya (RTC) d’una Llar Compartida on apareix el NIRTC, que comença amb
 
 ## TRÀMITS RECURRENTS
 
-### Renovació Número de Registro de Alquiler (NRA) (ANUAL)
+### 1. Renovació Número de Registro de Alquiler (NRA) (ANUAL)
 
-### Mossos d'Esquadra
+### 2. Mossos d'Esquadra
     - Cal fer "parte" de cada viatger que arriba. AIRBNB. Però es pot automatitzar.
     - Donar-se d'alta a
     - Donar-se d'alta a l'aplicació Partee 
@@ -153,7 +153,7 @@ PROCEDIMENT:
 
     Gracias y saludos,
 
-### Taxa Turística
+### 3. Taxa Turística
 
     - No ho fa AIRBNB directament.
     - Exempts els menors de 17 anys. (>=17) però cal fer signar un document als pares.
@@ -169,7 +169,7 @@ Procediment (només es pot fer durant els períodes de pagament):
 5) Liquidar (cal seleccionar quines estades vols pagar) 
 
     
-### Depósito anual NRUA (al Febrer)
+### 4. Depósito anual NRUA (al Febrer)
     - IMPORTANT: S'HA DE PRESENTAR ENCARA QUE SIGUI SIN ACTIVIDAD
     - Link: https://sede.registradores.org/sede/sede-corpme-web/informacion-y-ayuda/documentacion-descargas/deposito-arrendamientos
     - Cost: 32,73 eur
@@ -181,4 +181,8 @@ Procediment (només es pot fer durant els períodes de pagament):
     - Registro propiedad/Nueva presentacion/DOCUMENTO PRIVADO/DEPOSITO MODELO INFORMATIVO ARRENDAMIENTOS DE CORTA DURACION  
     -Adjuntar .zip dentro de carpeta "envio"
 
+### 5. IRPF
+
+- Si no hi ha serveis afegirs no es tracta d'activitat econòmica, només cal pagar IRPF
+- IRPF como rendimientos del capital inmobiliario, cada propietari en proporció al seu % de propietat.
 
