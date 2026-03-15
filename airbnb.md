@@ -65,7 +65,7 @@ de Catalunya (RTC) d’una Llar Compartida on apareix el NIRTC, que comença amb
             - Número habitaciones finca: 
             - DESCRIPCIÓN DE LA HABITACIÓN QUE SE ARRIENDA (e.g. Habitación suite con baño)
             - Licencia? sí
-            - CSV: 0NBEQTI1HS9JNZY00PIHGC5F9EYMMM6C
+            - CSV (Codi Segur de Verificació al final del document acreditatiu de la inscripció en el Registre de Turisme de Catalunya)
             - Numero de licencia (el NIRTC de la Generalitat: LL B...)
             - Aporta la documentación que acredite autorización, licencia, visado o equivalente? Sí
             - Copia del registro de comunicación de incio de actividad como hogar compartido 
